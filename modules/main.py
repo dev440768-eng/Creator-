@@ -317,7 +317,7 @@ async def txt_handler(bot: Client, m: Message):
 ╰─..★.──────╯
 
 📝 Title: {name1}
-├── Extension : .mkv
+├── Extension : @Sumit_Zx.mkv
 ├── Resolution : [{res}]
 
 <pre><code>📚 Batch Name: {b_name}</code></pre>
@@ -337,7 +337,7 @@ async def txt_handler(bot: Client, m: Message):
 ╰─..★.──────╯
 
 📝 Title: {name1}
-├── Extension : .pdf
+├── Extension : @Sumit_Zx.pdf
 
 <pre><code>📚 Batch Name: {b_name}</code></pre>
 
@@ -588,7 +588,7 @@ async def txt_handler(bot: Client, m: Message):
 ╰─..★.──────╯
 
 📝 Title: {name1}
-├── Extension : .mkv
+├── Extension : @Sumit_Zx.mkv
 ├── Resolution : [{res}]
 
 <pre><code>📚 Batch Name: {b_name}</code></pre>
@@ -608,7 +608,7 @@ async def txt_handler(bot: Client, m: Message):
 ╰─..★.──────╯
 
 📝 Title: {name1}
-├── Extension : .pdf
+├── Extension : @Sumit_Zx.pdf
 
 <pre><code>📚 Batch Name: {b_name}</code></pre>
 
